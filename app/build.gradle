@@ -70,6 +70,11 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.13.2'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'
 
+    //Paging
+    implementation "androidx.paging:paging-runtime:3.0.0-alpha12"
+    // alternatively - without Android dependencies for tests
+    testImplementation "androidx.paging:paging-common:3.0.0-alpha12"
+
     // Firestore
     implementation platform('com.google.firebase:firebase-bom:26.7.0')
     implementation 'com.google.firebase:firebase-firestore:17.1.2'
