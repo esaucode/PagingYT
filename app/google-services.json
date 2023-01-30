@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237757867327",
+    "project_id": "pagingyt",
+    "storage_bucket": "pagingyt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237757867327:android:8d3ab969330e91245a5f8a",
+        "android_client_info": {
+          "package_name": "com.esaudev.pagingyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237757867327-g89efopd5vav4q7nlckiunielbgp6nkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esaudev.pagingyt",
+            "certificate_hash": "4531690b99e34a725c760e1675567901ec0b31b1"
+          }
+        },
+        {
+          "client_id": "237757867327-7s03hhlrap62gchmvt3qujrf09gpa5e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSSRGcgs7FPnBZIhxnnkYxX9LqMsbtX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237757867327-7s03hhlrap62gchmvt3qujrf09gpa5e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
